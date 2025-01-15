@@ -1,1 +1,1 @@
-.
+# Regular CRUD application
